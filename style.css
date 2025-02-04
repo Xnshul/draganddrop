@@ -2,7 +2,19 @@
      margin: 0%;
      box-sizing: border-box;
 }
-body {display: flex;
+h1{text-align: center;
+     margin-top: 50px;
+     display: grid;
+     font-size: 4pc;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-image: url(https://wallpaperaccess.com/full/120621.jpg);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+     font-weight: 5900005454;
+     
+
+}
+body {
 
      justify-content: center;
      align-items: center;
@@ -11,6 +23,7 @@ body {display: flex;
 
 }
 .container {position: relative;
+     
      padding: 20px;
      background: rgb(167, 59, 59);
      display: flex;
@@ -19,6 +32,7 @@ body {display: flex;
      gap: 30px;
     border-radius: 20px;
 box-shadow: 0 10px 20px rgba(0.0.0.15);
+margin-top: 200px;
 
 
 
